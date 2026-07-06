@@ -1,0 +1,2 @@
+Most examples use only Python's built-in libraries.
+Jupyter is required only for running notebook files.
